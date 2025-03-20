@@ -1,0 +1,4 @@
+Create Syndrome.py
+Fine tune CodeBERT
+Test on websites
+Syndome needs to be able to scan websites for XXS SQL injection, etc
